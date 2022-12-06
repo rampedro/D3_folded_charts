@@ -23,6 +23,8 @@ library(shinyjs)
 # devtools::install_github("jienagu/nivopie")
 library(nivopie)
 # webshot::install_phantomjs()
+# tinytex::install_tinytex()
+
 
 temp_flight2=readRDS("temp_flight2.rds")
 
